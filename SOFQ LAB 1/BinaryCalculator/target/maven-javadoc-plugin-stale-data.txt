@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/eshaa_ntl31s1/.m2/repository/joda-time/joda-time/2.12.5/joda-time-2.12.5.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/eshaa_ntl31s1/OneDrive/Documents/SOFQ LAB 1/BinaryCalculator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/eshaa_ntl31s1/OneDrive/Documents/SOFQ LAB 1/BinaryCalculator/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/eshaa_ntl31s1/OneDrive/Documents/SOFQ LAB 1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 API'
+com.ontariotechu.sofe3980U
+C:\Users\eshaa_ntl31s1\.m2\repository\joda-time\joda-time\2.12.5\joda-time-2.12.5.jar = 1769708317766
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\src\main\java = 1769706387523
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\allclasses-index.html = 1770278476317
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\allpackages-index.html = 1770278476320
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\element-list = 1770278476266
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\help-doc.html = 1770278476350
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\index-all.html = 1770278476335
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\index.html = 1770278476342
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\member-search-index.js = 1770278476324
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\module-search-index.js = 1770278476321
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\overview-tree.html = 1770278476308
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\package-search-index.js = 1770278476323
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\search.html = 1770278476339
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\tag-search-index.js = 1770278476325
+C:\Users\eshaa_ntl31s1\OneDrive\Documents\SOFQ LAB 1\BinaryCalculator\target\reports\apidocs\type-search-index.js = 1770278476323
